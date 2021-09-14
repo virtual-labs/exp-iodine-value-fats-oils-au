@@ -84,9 +84,15 @@
         Volume of Sodium thiosulphate used  =  [Blank- Test] ml
 
 
+
+
+&nbsp;
+
+
 <img src="images/Eqn_bio.png" title="" />
 
-    &nbsp;
+&nbsp;
+
 
             Equivalent Weight of Iodine = 127
 
