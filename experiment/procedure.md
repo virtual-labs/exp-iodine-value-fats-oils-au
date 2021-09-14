@@ -84,7 +84,7 @@
         Volume of Sodium thiosulphate used  =  [Blank- Test] ml
 
 
-    <img src="images/Eqn_bio.png" title="" />
+<img src="images/Eqn_bio.png" title="" />
 
     &nbsp;
 
