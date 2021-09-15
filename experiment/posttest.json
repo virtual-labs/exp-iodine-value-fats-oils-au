@@ -2,38 +2,31 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1.  What will be the iodine number of a fat which consumed 1 ml of sodium thiosulphate solution ?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "7.5",
+        "b": "6.35",
+        "c": "5",
+        "d": "63.5"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      "question": "2.  The indicator used for iodine estimation analysis:",
+              "answers": {
+          "a": "Phenolphthalein",
+          "b": "Starch",
+          "c": "Methyl orange",
+          "d": "None of the above"
+        },
+
+            
+      "correctAnswer": "b",
       "difficulty": "beginner"
-    }
+    }   
+     
+    
   ]
 }

@@ -2,38 +2,57 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1.  Iodine value is the --------- of iodine consumed by -------- of fat.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "mg,1g",
+        "b": "g,1g",
+        "c": "g,100g",
+        "d": "None of the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2.  Iodine value indicates:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": " The degree of unsaturation in an oil.",
+        "b": "The presence of double bonds.",
+        "c": "Degree of saturation of an oil.",
+        "d": "None of the above."
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
-    }
+    },
+
+    {
+      "question": "3.  Equivalent weight of Iodine is:",
+      "answers": {
+        "a": "12.7",
+        "b": "127",
+        "c": "12.7",
+        "d": "None of the above"
+      },
+          
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+      {
+        "question": "4.  The relationship between Iodine value and Unsaturation of oil is:",
+        "answers": {
+          "a": "They are inversely proportional",
+          "b": "They are directly proportional",
+          "c": "No effect on each other",
+          "d": "None of the above"
+        },
+
+            
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }   
+     
+    
   ]
 }
